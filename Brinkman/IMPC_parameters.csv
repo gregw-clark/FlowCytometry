@@ -1,0 +1,78 @@
+Spleen weight IMPC_IMM_001_001,1,simpleParameter,Tick,       ,       ,       ,       ,,       ,g,FLOAT
+Total number of acquired events in Panel A IMPC_IMM_026_001,1.3,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Percentage of live gated events in Panel A IMPC_IMM_002_001,1.6,simpleParameter,       ,       ,Tick,       ,       ,,       ,%,FLOAT
+T cells (panel A) IMPC_IMM_003_001,1.5,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NKT cells (panel A) IMPC_IMM_004_001,1.5,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NK cells (panel A) IMPC_IMM_005_001,1.5,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Others IMPC_IMM_006_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 T cells IMPC_IMM_007_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD8 T cells IMPC_IMM_008_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+DN T cells IMPC_IMM_009_001,1.5,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DP T cells IMPC_IMM_010_001,1.2,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+CD4 NKT cells IMPC_IMM_011_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD8 NKT cells IMPC_IMM_012_001,1.5,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DN NKT cells IMPC_IMM_013_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD25+ T cells IMPC_IMM_014_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD25- T cells IMPC_IMM_015_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD8 CD25+ T cells IMPC_IMM_016_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD8 CD25- T cells IMPC_IMM_017_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+DN CD25+ T cells IMPC_IMM_018_001,1.5,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DN CD25- T cells IMPC_IMM_019_001,1.5,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+CD4 CD25+ NKT cells IMPC_IMM_020_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD25- NKT cells IMPC_IMM_021_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD8 CD25+ NKT cells IMPC_IMM_022_001,1.5,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+CD8 CD25- NKT cells IMPC_IMM_023_001,1.5,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DN CD25+ NKT cells IMPC_IMM_024_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+DN CD25- NKT cells IMPC_IMM_025_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD44+CD62L- T cells IMPC_IMM_028_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD44+CD62L+ T cells IMPC_IMM_029_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD44-CD62L+ T cells IMPC_IMM_030_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD44-CD62L- T cells IMPC_IMM_031_001,1.2,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+CD8 CD44+CD62L- T cells IMPC_IMM_032_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD8 CD44+CD62L+ T cells IMPC_IMM_033_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD8 CD44-CD62L+ T cells IMPC_IMM_034_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD8 CD44-CD62L- T cells IMPC_IMM_035_001,1.2,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DN CD44+CD62L- T cells IMPC_IMM_036_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DN CD44+CD62L+ T cells IMPC_IMM_037_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DN CD44-CD62L+ T cells IMPC_IMM_038_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DN CD44-CD62L- T cells IMPC_IMM_039_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+CD4 CD44+CD62L- NKT cells IMPC_IMM_040_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD44+CD62L+ NKT cells IMPC_IMM_041_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+CD4 CD44-CD62L+ NKT cells IMPC_IMM_042_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+CD8 CD44+CD62L- NKT cells IMPC_IMM_043_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+CD8 CD44+CD62L+ NKT cells IMPC_IMM_044_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+CD8 CD44-CD62L+ NKT cells IMPC_IMM_045_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+DN CD44+CD62L- NKT cells IMPC_IMM_046_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+DN CD44+CD62L+ NKT cells IMPC_IMM_047_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+DN CD44-CD62L+ NKT cells IMPC_IMM_048_001,1.3,simpleParameter,       ,       ,       ,       ,       ,,       ,,INT
+Total number of acquired events in Panel B IMPC_IMM_027_001,1.1,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Percentage of live gated events in Panel B IMPC_IMM_049_001,1.4,simpleParameter,       ,       ,Tick,       ,       ,,       ,%,FLOAT
+Neutrophils IMPC_IMM_050_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Monocytes IMPC_IMM_051_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Eosinophils IMPC_IMM_052_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NK Cells (panel B) IMPC_IMM_053_001,1.3,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NK Subsets (Q1) IMPC_IMM_054_001,1.3,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NK Subsets (Q2) IMPC_IMM_055_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NK Subsets (Q3) IMPC_IMM_056_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NK Subsets (Q4) IMPC_IMM_057_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NKT Cells (panel B) IMPC_IMM_058_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NKT Subsets (Q1) IMPC_IMM_059_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+NKT Subsets (Q3) IMPC_IMM_060_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+T Cells (panel B) IMPC_IMM_061_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+T Subset IMPC_IMM_062_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+B Cells IMPC_IMM_063_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+B1B Cells IMPC_IMM_064_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+B2B Cells IMPC_IMM_065_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Follicular B Cells IMPC_IMM_066_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Follicular B Cells (CD21/35+) IMPC_IMM_067_001,1.1,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Transitional B Cells IMPC_IMM_068_001,1.3,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Transitional B Cells (CD21/35 low) IMPC_IMM_069_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+MZB IMPC_IMM_070_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+MZB (CD21/35 high) IMPC_IMM_071_001,1.1,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+cDCs IMPC_IMM_072_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+cDCs CD11b Type IMPC_IMM_073_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+pDCs IMPC_IMM_074_001,1.2,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+RP Macrophage (F4/80+) IMPC_IMM_075_001,1.1,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+RP Macrophage (CD19- CD11c-) IMPC_IMM_076_001,1.1,simpleParameter,       ,       ,Tick,       ,       ,,       ,,INT
+Panel A FCS file(s) IMPC_IMM_107_001,1,seriesMediaParameter,       ,       ,       ,       ,       ,,       ,,TEXT
+Panel B FCS file(s) IMPC_IMM_108_001,1,seriesMediaParameter,       ,       ,       ,       ,       ,,       ,,TEXT
